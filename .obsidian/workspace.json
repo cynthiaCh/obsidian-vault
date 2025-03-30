@@ -168,9 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3eff342c33b52b7",
+  "active": "7c67d96e4a56734d",
   "lastOpenFiles": [
-    "01_算法基础/堆排序.md",
-    "00_学习日记/2025-03-30.md"
+    "auto_push.sh",
+    "Untitled.md",
+    "00_学习日记/2025-03-30.md",
+    "01_算法基础/堆排序.md"
   ]
 }

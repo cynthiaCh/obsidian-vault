@@ -1,0 +1,29 @@
+# 忽略 Obsidian 的临时缓存、界面状态等
+.obsidian/cache
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/appearance.json
+
+# macOS 系统文件
+.DS_Store
+
+# Windows 系统文件
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# VS Code 设置文件（如果你用了 VSCode 打开 Vault）
+.vscode/
+
+# 临时备份、日志、压缩包
+*.log
+*.tmp
+*.zip
+*.bak
+*.swp
+
+# python脚本执行时的 __pycache__
+__pycache__/
+
+# 忽略 obsidian git 插件的自动备份时间戳文件（可选）
+.obsidian-git/
