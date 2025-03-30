@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_致敬计划_FuliLuo/罗福莉_句子关系建模项目.md.md",
+                "file": "04_致敬计划_FuliLuo/罗福莉_句子关系建模项目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "罗福莉_句子关系建模项目.md"
+              "title": "罗福莉_句子关系建模项目"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_致敬计划_FuliLuo/罗福莉_句子关系建模项目.md.md",
+                "file": "04_致敬计划_FuliLuo/罗福莉_句子关系建模项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 罗福莉_句子关系建模项目.md"
+              "title": "Backlinks for 罗福莉_句子关系建模项目"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_致敬计划_FuliLuo/罗福莉_句子关系建模项目.md.md",
+                "file": "04_致敬计划_FuliLuo/罗福莉_句子关系建模项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 罗福莉_句子关系建模项目.md"
+              "title": "Outgoing links from 罗福莉_句子关系建模项目"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_致敬计划_FuliLuo/罗福莉_句子关系建模项目.md.md",
+                "file": "04_致敬计划_FuliLuo/罗福莉_句子关系建模项目.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 罗福莉_句子关系建模项目.md"
+              "title": "Outline of 罗福莉_句子关系建模项目"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "7c67d96e4a56734d",
   "lastOpenFiles": [
-    "00_学习日记/2025-03-30.md",
     "04_致敬计划_FuliLuo/罗福莉_句子关系建模项目.md.md",
+    "04_致敬计划_FuliLuo/罗福莉_句子关系建模项目.md",
+    "04_致敬计划_FuliLuo/sentence_pair_model.py",
+    "00_学习日记/2025-03-30.md",
     "04_致敬计划_FuliLuo",
     "auto_push.sh",
     "Untitled.md",
